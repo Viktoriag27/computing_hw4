@@ -13,6 +13,7 @@ Requires-Dist: numpy
 Requires-Dist: pandas
 Requires-Dist: datetime
 Requires-Dist: geopy
+Requires-Dist: scikit-learn
 
 # tarenzvi
 
