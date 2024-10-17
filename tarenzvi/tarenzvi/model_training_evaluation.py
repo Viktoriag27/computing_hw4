@@ -54,3 +54,4 @@ def evaluate_model(model, X_train, X_test, y_train, y_test):
     test_roc_auc = roc_auc_score(y_test, y_test_pred)
     
     # Return both ROC AUC scores (train and test)
+    return train_roc_auc, test_roc_auc
