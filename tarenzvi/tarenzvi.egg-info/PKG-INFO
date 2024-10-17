@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: tarenzvi
+Version: 0.1
+Summary: A simple Python library
+Home-page: https://github.com/Viktoriag27/computing_hw4
+Author: Viktoria, Tarang and Enzo from DSDM 2025
+Author-email: viktoria.gagua@bse.eu
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: datetime
+Requires-Dist: geopy
+
+# tarenzvi
+
+This is a simple Python library for educational purposes.
+hw 4.
+BSE DSDM cohort 2025
+
+## Installation
+
+```bash
+pip install .

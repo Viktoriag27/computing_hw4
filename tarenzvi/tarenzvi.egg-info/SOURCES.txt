@@ -1,0 +1,12 @@
+README.md
+setup.py
+tarenzvi/__init__.py
+tarenzvi/core_functions.py
+tarenzvi/utils.py
+tarenzvi.egg-info/PKG-INFO
+tarenzvi.egg-info/SOURCES.txt
+tarenzvi.egg-info/dependency_links.txt
+tarenzvi.egg-info/requires.txt
+tarenzvi.egg-info/top_level.txt
+tests/test_core_functions.py
+tests/test_utils.py
