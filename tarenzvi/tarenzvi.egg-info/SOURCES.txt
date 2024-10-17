@@ -2,6 +2,8 @@ README.md
 setup.py
 tarenzvi/__init__.py
 tarenzvi/core_functions.py
+tarenzvi/data_processing.py
+tarenzvi/model_training_evaluation.py
 tarenzvi/utils.py
 tarenzvi.egg-info/PKG-INFO
 tarenzvi.egg-info/SOURCES.txt

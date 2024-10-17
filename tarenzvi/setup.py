@@ -10,7 +10,8 @@ setup(
         'numpy',  # Example dependency
         'pandas',
         'datetime',
-        'geopy'
+        'geopy',
+        'scikit-learn'
     ],
     description='A simple Python library',
     long_description=open('README.md').read(),
