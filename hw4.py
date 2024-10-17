@@ -59,6 +59,7 @@ dates = [
 df = get_day_month_year(dates)
 print(df)
 
+#################################################
 # 3) 
 # Create a function called "compute_distance" that takes
 # a list of tuple pairs with latitude and longitude coordinates and 
