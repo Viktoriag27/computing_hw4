@@ -1,4 +1,6 @@
 ##### Try to use map and reduce in the next 3 exercises
+
+#################################################
 # 1)
 # Create a function called "count_simba" that counts and returns
 # the number of times that Simba appears in a list of
@@ -28,6 +30,7 @@ strings = ["Simba and Nala are lions.",
 
 print(count_simba(strings))  # Output should be 3
 
+#################################################
 # 2)
 # Create a function called "get_day_month_year" that takes 
 # a list of datetimes.date and returns a pandas dataframe
@@ -59,6 +62,7 @@ dates = [
 df = get_day_month_year(dates)
 print(df)
 
+#################################################
 # 3) 
 # Create a function called "compute_distance" that takes
 # a list of tuple pairs with latitude and longitude coordinates and 
